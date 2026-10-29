@@ -1,0 +1,5 @@
+# robots.txt para Nós da Clei
+User-agent: *
+Allow: /
+
+Sitemap: https://nosdaclei.netlify.app/sitemap.xml

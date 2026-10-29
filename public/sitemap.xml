@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://nosdaclei.netlify.app/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://nosdaclei.netlify.app/images/Tapete%20de%20Porta.webp</image:loc>
+      <image:title>Tapete de Porta em Crochê Artesanal</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://nosdaclei.netlify.app/images/Tapete%20Passadeira.webp</image:loc>
+      <image:title>Tapete Passadeira Hexagonal em Crochê</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://nosdaclei.netlify.app/images/Bucket%20Infantil.webp</image:loc>
+      <image:title>Bucket Hat Infantil em Crochê</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://nosdaclei.netlify.app/images/Bucket%20Adulto%20v2.webp</image:loc>
+      <image:title>Bucket Hat Adulto em Crochê</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://nosdaclei.netlify.app/images/Cardigan%20Granny%20Square.webp</image:loc>
+      <image:title>Cardigan Granny Square Vintage em Crochê</image:title>
+    </image:image>
+  </url>
+</urlset>
